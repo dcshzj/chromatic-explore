@@ -38,7 +38,7 @@ export const NotFoundPage = (): JSX.Element => {
               fontWeight="medium"
               color="base.content.strong"
             >
-              The page you are looking for does not exist anymore!
+              The page you are looking for does not exist anymore.
             </Text>
             <Text textStyle="body-2" color="base.content.default">
               Try refreshing your page when you return.
