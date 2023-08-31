@@ -38,7 +38,7 @@ export const NotFoundPage = (): JSX.Element => {
               fontWeight="medium"
               color="base.content.strong"
             >
-              The page you are looking for does not exist anymore RIP.
+              The page you are looking for does not exist anymore RIP AAA.
             </Text>
             <Text textStyle="body-2" color="base.content.default">
               Try refreshing your page when you return.
@@ -49,7 +49,7 @@ export const NotFoundPage = (): JSX.Element => {
             to={siteName ? `/sites/${siteName}/workspace` : "/sites"}
             mb="8rem"
           >
-            Back to dashboard
+            Back to ALL SITES!!!
           </Button>
         </VStack>
       </GridItem>
