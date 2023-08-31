@@ -43,7 +43,7 @@ const LOGIN_GRID_LAYOUT: Pick<
   | "height"
   | "width"
 > = {
-  gridTemplateAreas: `"image content" 
+  gridTemplateAreas: `"image content"
                       "credits links"`,
   gridTemplateColumns: "2fr 4fr",
   gridTemplateRows: "1fr 5rem",
@@ -143,7 +143,7 @@ const LoginContent = (): JSX.Element => {
       <Infobox>
         We’re moving in phases from GitHub IDs to email addresses as the login
         method. For those currently using GitHub ID, you’ll be informed when you
-        can log in using the email method.
+        can log in using the email method. SOON NO MORE!!!
       </Infobox>
       <Tabs width="100%">
         <TabList>
