@@ -49,7 +49,7 @@ export const NotFoundPage = (): JSX.Element => {
             to={siteName ? `/sites/${siteName}/workspace` : "/sites"}
             mb="8rem"
           >
-            Back to dashboard
+            Back to ALL SITES!!!
           </Button>
         </VStack>
       </GridItem>
