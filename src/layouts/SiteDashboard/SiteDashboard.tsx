@@ -327,7 +327,7 @@ export const SiteDashboard = (): JSX.Element => {
                     Site settings
                   </DisplayCardTitle>
                   <DisplayCardCaption>
-                    Manage site footer, links, logos, and JUST A LITTLE BIT more
+                    Manage site footer, links, logos, and REALLY A LOT more
                   </DisplayCardCaption>
                 </DisplayCardHeader>
               </DisplayCard>
