@@ -41,7 +41,7 @@ export const NotFoundPage = (): JSX.Element => {
               The page you are looking for does not exist anymore.
             </Text>
             <Text textStyle="body-2" color="base.content.default">
-              Try refreshing your page when you return.
+              Try refreshing your page when you return HOME.
             </Text>
           </VStack>
           <Button
