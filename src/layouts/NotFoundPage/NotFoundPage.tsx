@@ -41,7 +41,7 @@ export const NotFoundPage = (): JSX.Element => {
               The page you are looking for does not exist anymore.
             </Text>
             <Text textStyle="body-2" color="base.content.default">
-              Try refreshing your page when you return HOME.
+              Try refreshing your page when you return.
             </Text>
           </VStack>
           <Button
@@ -49,7 +49,7 @@ export const NotFoundPage = (): JSX.Element => {
             to={siteName ? `/sites/${siteName}/workspace` : "/sites"}
             mb="8rem"
           >
-            Back to homepage!!!
+            Back to homepage!!!!!!!
           </Button>
         </VStack>
       </GridItem>
